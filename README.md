@@ -1,2 +1,2 @@
-# Ecommerce_website
-I developed ecommerce website using Spring boot  and Angular Framework
+# Angular Routing
+I developed routing mechanism to move to different componet
